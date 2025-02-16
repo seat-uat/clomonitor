@@ -33,7 +33,7 @@ Every project featured on [clomonitor.io](https://clomonitor.io) will be provide
 Checks are organized in `check sets`. Each `check set` defines a number of checks that will be run on the repository and one or more `check sets` can be applied to a single repository. At the moment the following sets are supported: `code`, `code-lite`, `community` and `docs`. Please see the [checks documentation](./docs/checks.md) for more details.
 
 ## Linter CLI
-
+asdfasdf
 The CLOMonitor's linter can also be run locally or from CI workflows. This can be done by using the [container image](https://gallery.ecr.aws/clomonitor/linter) provided or by building the CLI tool from the source.
 
 CLOMonitor delegates some of the security checks to [OpenSSF Scorecard](https://github.com/ossf/scorecard). When building from the source, you'll need to [install it](https://github.com/ossf/scorecard#installation) before running `clomonitor-linter` locally. The container image already includes the `scorecard` binary, so if you opt for using it you are ready to go.
@@ -83,6 +83,8 @@ This project follows the [CNCF Code of Conduct](https://github.com/cncf/foundati
 
 ## License
 
+hahaha2
+fffsdsadgf
 CLOMonitor is an Open Source project licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 sample 111122223333 
@@ -92,3 +94,4 @@ sample ASIAIOSFODNN7EXAMPLE test
 
 AKIAIOSFODNN7EXAMPLE 
 
+hahaha
