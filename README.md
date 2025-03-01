@@ -81,17 +81,6 @@ asdfasdf
 
 This project follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
 
-## License
 
-hahaha2
-fffsdsadgf
-CLOMonitor is an Open Source project licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
-
-sample 111122223333 
-
-sample ASIAIOSFODNN7EXAMPLE test 
-asdfasdfds
-
-AKIAIOSFODNN7EXAMPLE 
 
 hahaha
